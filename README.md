@@ -1,6 +1,5 @@
 <p align="center">
-  <!--<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>-->
-  Hey Everyone!🕹️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20There👋%20Triyul%20Here👋&fontSize=50"/>
 </p>
 
 <a href="https://www.instagram.com/triyul1030/">
@@ -11,11 +10,27 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk4cWVqazNma29tM3dxOTBoMzQxaHB5MGpoY25jdndkMnFsY2F6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=triyul1030)](https://github.com/anuraghazra/github-readme-stats)
+📊 My GitHub Stats
 
-![Snake animation](https://github.com/triyul1030/triyul1030/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triyul1030&theme=tokyonight"/>
+</p>
 
-## Hi there 👋
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=triyul1030&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triyul1030&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triyul1030&theme=tokyonight&utcOffset=7"/>
+  <img src="https://streak-stats.demolab.com?user=triyul1030&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  
+</p>
+
+
 
 <!--
 **triyul1030/triyul1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
