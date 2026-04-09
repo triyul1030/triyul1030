@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20There%20Triyul%20Here,👋&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20There,%20Triyul%20Here👋&fontSize=50"/>
 </p>
 
 <a href="https://www.instagram.com/triyul1030/">
