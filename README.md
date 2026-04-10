@@ -43,6 +43,13 @@
 
 ---
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,mysql,git,github,vscode"/>
+</p>
+
+---
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triyul1030&theme=tokyonight"/>
