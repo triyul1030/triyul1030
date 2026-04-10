@@ -31,15 +31,12 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on Web Development  
-- 🌱 Learning Backend & Cloud  
-- 💬 Ask me about JavaScript, PHP  
+## About Me  
 - ⚡ Love building cool things 🚀
 
 ---
 
-## 📊 My GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triyul1030&theme=tokyonight"/>
 </p>
@@ -56,7 +53,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/triyul1030/triyul1030/output/github-contribution-grid-snake.svg"/>
 </p>
