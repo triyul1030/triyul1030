@@ -16,6 +16,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=triyul1030&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/triyul1030?label=Followers&style=for-the-badge"/>
+</p>
+
+---
+
 <!-- Social -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tri-yulianto-triyul1030/">
