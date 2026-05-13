@@ -10,11 +10,11 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk4cWVqazNma29tM3dxOTBoMzQxaHB5MGpoY25jdndkMnFsY2F6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif"/>
 </p>
 
----
+--- -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=triyul1030&label=Profile+Views&color=blue&style=for-the-badge"/>
@@ -44,6 +44,17 @@
 ---
 
 ## 🛠️ Tech Stack
+| Area | Stack |
+| --- | --- |
+| Frontend | React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| Backend | Node.js, Express.js, RESTful APIs |
+| Mobile | Android Studio |
+| Databases | PostgreSQL, MySQL, MongoDB, Firebase |
+| DevOps & Cloud | Docker, CI/CD, AWS, GCP, Git |
+| Testing & Quality | Jest, Unit Testing, Integration Testing |
+
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,mysql,git,github,vscode"/>
 </p>
